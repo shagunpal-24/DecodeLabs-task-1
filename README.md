@@ -74,11 +74,11 @@ The website is fully responsive and optimized for:
 
 ### Desktop View
 
-![Desktop View](screenshots/desktop-view.png)
+![Desktop View](screenshots/Screenshot%20(358).png)
 
 ### Mobile View
 
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](screenshots/Screenshot%20(359).png)
 ---
 
 ## 👨‍💻 Author
